@@ -1,0 +1,23 @@
+// Default Bootsrap variable overrides
+$primary: #ff0000;
+$secondary: #2ecc71;
+
+$font-size-base: 2rem; 
+
+$body-color: #333;
+
+$border-radius: 0.25;
+
+$acordion-icon-width: 1.5rem;
+
+
+$link-color: #40a040;
+
+$body-bg: #8ec6ff;
+
+$link-hover-color: lighten($link-color, 10%);
+
+
+
+// Bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
